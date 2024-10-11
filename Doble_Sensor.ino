@@ -50,6 +50,5 @@ void loop() {
     }
   }
 
-  // Agregar un pequeño retraso para la estabilidad del sistema
   delay(3000);
 }
